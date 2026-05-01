@@ -1,0 +1,5 @@
+The following packages should be updated for best compatibility with the installed expo version:
+  @expo/vector-icons@14.1.0 - expected version: ~14.0.4
+  react-native@0.76.5 - expected version: 0.76.9
+Your project may not work correctly until you install the expected versions of the packages.
+^Cnpm error A complete log of this run can be found in: C:\Users\karan\AppData\Local\npm-cache\_logs\2026-04-08T16_15_37_976Z-debug-0.log

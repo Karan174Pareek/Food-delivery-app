@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "SwiftDrop",
+    "slug": "swiftdrop-food-delivery",
+    "scheme": "swiftdrop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFF8F2"
+      }
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
